@@ -1,19 +1,56 @@
-# Markdown Portfolio
+# About Me
 
-In this assignment, you'll create a simple web page built with Markdown that displays information about yourself.
+I am an Air Force veteran and `Full Stack Developer`. I have dabbled in coding for the last 2 years, learning here and there throughout the internet.
 
-If you ever have any questions about Markdown syntax, feel free to reference the documentation here: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+I am currently taking this class to work on my foundations and discover new ways to write similar code to what I am used to. I want to be a very well versed developer as I feel it will give me a leg up on competition if I am able to adapt to all different styles of code. I am also using the time in this course to really work on my algorithm and data structure skills, which I have been working on [here](www.codewars.com). I eventually want to get into the gaming community and I know from experience that their whiteboard tests are no joke when it comes to problem solving. I'll share a snippet below of the question that got me in an interview.
 
-### Instructions
+Overall I am excited to have some fun in this class and learn some new stuff.
 
-1. Start by forking this repository
-1. In your "fork" of the repository, edit the `README.md` and replace all of the previous content with your own Markdown which should contain:
-    * A title (your name)
-    * At least one picture
-    * At least one link (this could be to your GitHub page, your LinkedIn, or whatever you want)
-    * At least one bullet point list
-    * At least one numbered list
-1. Once you've added all of the previous elements, read through this markdown cheatsheet (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and add one additional element not previously listed
-1. Once you're done with this, adjust the settings of your repoistory to enable GitHub Pages. This should provide you a URL at which your project is hosted.
-2. Update the "About" section of your repository so that your project's "website" is the GitHub Pages URL
-3. Finally, turn in a link to your repository on Populi
+### Code Challenge Snippet
+
+![alt text](https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fi.gyazo.com%2F1c2a4ade24aad0ec08834d01a07f4a64.png)
+
+## Languages and tools most comfortable with:
+1. **Front End**
+- HTML
+- CSS
+- JS
+- React
+- Angular
+- Jquery
+- Python
+- AJAX
+- Material-Ui
+- Bootstrap
+- Formik
+- Yup
+- Java
+
+2. **Middle Tier / Back End**
+- C#
+- C++
+- .NET Core
+- ADO.NET
+- WebAPI
+- RestAPI
+- Node.js
+- Express.js
+- MS SQL Server
+- MySQL
+- MongoDb
+- Django
+- Flask
+- AWS
+
+3. **Tools**
+- VS Code
+- VS Studio 2019
+- Git
+- SSMS
+- Postman
+- Docker
+- Unreal Engine 4
+- MySQL Workbench
+- Chrome Dev Tools
+- NPM/Yarn
+- OOP

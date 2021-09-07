@@ -1,6 +1,6 @@
 # About Me
 
-I am an Air Force veteran and `Full Stack Developer`. I have dabbled in coding for the last 2 years, learning here and there throughout the internet.
+I am an `Air Force veteran` and have dabbled in coding for the last 2 years, learning here and there throughout the internet.
 
 I am currently taking this class to work on my foundations and discover new ways to write similar code to what I am used to. I want to be a very well versed developer as I feel it will give me a leg up on competition if I am able to adapt to all different styles of code. I am also using the time in this course to really work on my algorithm and data structure skills, which I have been working on [here](www.codewars.com). I eventually want to get into the gaming community and I know from experience that their whiteboard tests are no joke when it comes to problem solving. I'll share a snippet below of the question that got me in an interview.
 
